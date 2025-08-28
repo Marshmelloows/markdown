@@ -2,7 +2,7 @@
 
  
 
-    * Go to the lynix mint download (cinnamon ) page and click the download button  
+    * Go to the linux mint download (cinnamon ) page and click the download button  
 
     * Go to our location and download the mirror  
 
@@ -12,7 +12,7 @@
 
  
 
-* Step 2 install the Lean Etcher  https://etcher.balena.io/ 
+* Step 2 install the [BalenaEtcher](https://etcher.balena.io/) 
 
     * Wait the posable 14 minits it will take to download like it did for ours 
 
@@ -23,6 +23,7 @@
 * Step 3 plug in your usb to the computer and delete the files inside of it ensure that any important files are transferred before deletion 
 
     * When you access the USB ideally you will right click format to make sure it's clear of anything. 
+    ![Alt text](https://kingofthehill.fandom.com/wiki/Hank_Hill?file=Hank+Hill.png "Optional Title")
 
     * We do this so that when we create our bootable drive there is onley the instillation instruction on it nothing else. 
 
@@ -43,3 +44,4 @@
     * Click flash from file and collect our cinimin lynix mint 
 
 DONE 
+
