@@ -1,0 +1,45 @@
+ * Step 1 (download the cinimon mirror) 
+
+ 
+
+    * Go to the lynix mint download (cinnamon ) page and click the download button  
+
+    * Go to our location and download the mirror  
+
+    * Once we click the download button scroll down and find our mirror for our location.  
+
+    * If there is no mirror for our location install the world location and the lynix mint mirror 
+
+ 
+
+* Step 2 install the Lean Etcher  https://etcher.balena.io/ 
+
+    * Wait the posable 14 minits it will take to download like it did for ours 
+
+    * Install the leaner Etcher download  
+
+ 
+
+* Step 3 plug in your usb to the computer and delete the files inside of it ensure that any important files are transferred before deletion 
+
+    * When you access the USB ideally you will right click format to make sure it's clear of anything. 
+
+    * We do this so that when we create our bootable drive there is onley the instillation instruction on it nothing else. 
+
+    * File system FAT32 (which is the font) when we right click 
+
+    * FAT32 is a format that will work accrous multiple operating systems. meaning if you plug it into a pc or lynix or mac it will read. if you do this on an apple masheen it will automatically default to apple journal. be awear to know what masheen you are on 
+
+    * We are just grabbing the booting drives at the moment, but we are not putting them on the computer  
+
+    * Go to format and click start down the bottom. This will clear everything off it and make it blank. 
+
+* Step 4 
+
+    now that the USB is clear and you have both your leaner Etcher and cinimon file for lynix mint, you must use the Lean Etcher to flash the file to your USB  
+
+    * Open the Lean Etcher 
+
+    * Click flash from file and collect our cinimin lynix mint 
+
+DONE 
